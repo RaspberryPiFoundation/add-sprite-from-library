@@ -1,4 +1,4 @@
- Click 'Choose sprite from library' to open up a list of all the Scratch sprites.
+ + Click 'Choose sprite from library' to open up a list of all the Scratch sprites.
 
 	![screenshot](images/sprite-library.png)
 
