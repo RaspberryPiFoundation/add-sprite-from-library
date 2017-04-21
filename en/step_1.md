@@ -4,4 +4,4 @@
 
 + Scroll down until you see the sprite you want. Click on the sprite, and click 'OK' to add it to your project.
 
-	![screenshot](images/sprite-drum.png)
+	![screenshot](images/sprite-choose.png)
