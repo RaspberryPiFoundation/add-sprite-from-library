@@ -2,6 +2,6 @@
 
 	![screenshot](images/sprite-library.png)
 
-+ Scroll down until you see the sprite you want. Click on the sprite, and click 'OK' to add it to your project.
++ You can browse sprites by category, theme or type. Click on a sprite and click ‘OK’ to add it to your project.
 
 	![screenshot](images/sprite-choose.png)
