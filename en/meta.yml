@@ -1,8 +1,12 @@
-title: Adding a sprite from the Scratch library
+title: Adding a Scratch sprite from the Library
 hero_image: images/banner.png
-subtitle: ...
-description: Adding a sprite from the Scratch library
-published: false
+description: Adding a Scratch sprite from the Library
+original url:
+theme: cc-prototype
+duration: 1
+listed: false
+interests:
+technologies: "scratch"
+>>>>>>> draft
 steps:
-  - title: Step one
-    duration: 60
+  - title: Add a sprite
