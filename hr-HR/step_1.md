@@ -1,7 +1,7 @@
-+ Kliknite **Odaberi lika iz knjižnice** da biste vidjeli knjižnicu svih Scratch likova.
++ Klikni **Odaberi lika iz knjižnice** da bi vidjeo knjižnicu svih Scratch likova.
     
     ![snimka zaslona](images/sprite-library.png)
 
-+ Možete pretraživati ​​likove prema kategoriji, temi ili vrsti. Kliknite na lika i kliknite **OK** da biste ga dodali u svoj projekt.
++ Možeš pretraživati ​​likove prema kategoriji, temi ili vrsti. Klikni na lika i klikni **OK** da bi ga dodao u svoj projekt.
     
     ![snimka zaslona](images/sprite-choose.png)
