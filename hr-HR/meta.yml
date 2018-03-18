@@ -1,7 +1,7 @@
 ---
-title: Dodavanje ogrebotina od knjižnice
+title: Dodavanje Scratch lika iz knjižnice
 hero_image: slike / banner.png
-description: Dodavanje ogrebotina od knjižnice
+description: Dodavanje Scratch lika iz knjižnice
 original url: ""
 theme: cc-prototip
 duration: 1
@@ -10,7 +10,7 @@ listed: false
 copyedit: true
 ingredient: true
 interests: ""
-technologies: "ogrepsti"
+technologies: "Scratch"
 steps:
   - 
-    title: Dodajte sprite
+    title: Dodajte lika
