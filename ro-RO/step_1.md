@@ -1,7 +1,7 @@
-+ Faceți clic pe **Alegeți sprite din biblioteca** pentru a vedea biblioteca tuturor spritelor Scratch.
++ Faceți clic pe **Alege un personaj din bibliotecă** pentru a vedea întreaga colecție de personaje Scratch.
     
     ![captură de ecran](images/sprite-library.png)
 
-+ Puteți căuta sprite după categorie, temă sau tip. Faceți clic pe o sprite și faceți clic pe **OK** pentru ao adăuga la proiectul dvs.
++ Puteți căuta personaje după categorie, temă sau tip. Faceți clic pe un personaj, apoi faceți clic pe **OK** pentru a-l adăuga la proiectul dvs.
     
     ![captură de ecran](images/sprite-choose.png)
