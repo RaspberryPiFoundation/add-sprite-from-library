@@ -1,4 +1,4 @@
-+ Klik **Pilih sprite dari perpustakaan** untuk melihat perpustakaan semua Scratch sprite.
++ Klik **Pilih sprite dari pustaka** untuk melihat pustaka semua sprite pada Scratch.
     
     ![tangkapan layar](images/sprite-library.png)
 
