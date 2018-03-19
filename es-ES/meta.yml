@@ -1,7 +1,7 @@
 ---
-title: Agregar un sprite de Scratch de la biblioteca
+title: Añadir un sprite de Scratch de la biblioteca
 hero_image: images / banner.png
-description: Agregar un sprite de Scratch de la biblioteca
+description: Añadir un sprite de Scratch de la biblioteca
 original url: ""
 theme: cc-prototype
 duration: 1
@@ -10,7 +10,7 @@ listed: false
 copyedit: true
 ingredient: true
 interests: ""
-technologies: "rasguño"
+technologies: "scratch"
 steps:
   - 
-    title: Añadir un sprite
+    title: Añade un sprite
