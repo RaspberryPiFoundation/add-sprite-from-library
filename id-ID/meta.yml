@@ -1,16 +1,16 @@
 ---
 title: Menambahkan Scratch sprite dari Library
-hero_image: gambar / banner.png
+hero_image: images/banner.png
 description: Menambahkan Scratch sprite dari Library
 original url: ""
-theme: cc-prototipe
+theme: cc-prototype
 duration: 1
 curriculum: ""
 listed: false
 copyedit: true
 ingredient: true
 interests: ""
-technologies: "menggaruk"
+technologies: "scratch"
 steps:
   - 
     title: Tambahkan sprite
