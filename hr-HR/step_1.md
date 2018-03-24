@@ -1,4 +1,4 @@
-+ Klikni **Odaberi lika iz knjižnice** da bi vidjeo knjižnicu svih Scratch likova.
++ Klikni **Odaberi lik iz knjižnice** da bi vidio knjižnicu svih Scratch likova.
     
     ![screenshot](images/sprite-library.png)
 
