@@ -1,4 +1,4 @@
-+ Fai clic su | 123_8_0_321 | Scegli sprite dalla libreria | 123_9_1_321 | per vedere la libreria di tutti gli sprite di Scratch.
++ Fai clic su **Scegli uno sprite dalla libreria** per visualizzare tutti gli sprite presenti nella libreria di Scratch.
     
     ![immagine dello schermo](images/sprite-library.png)
 
