@@ -1,16 +1,16 @@
 ---
 title: اضافه کردن یک حرکت خراش از کتابخانه
-hero_image: images / banner.png
+hero_image: images/banner.png
 description: اضافه کردن یک حرکت خراش از کتابخانه
 original url: ""
-theme: نمونه اولیه cc
+theme: cc-prototype
 duration: 1
 curriculum: ""
 listed: false
 copyedit: true
 ingredient: true
 interests: ""
-technologies: "خراش"
+technologies: "scratch"
 steps:
   - 
     title: یک راهنما را اضافه کنید
