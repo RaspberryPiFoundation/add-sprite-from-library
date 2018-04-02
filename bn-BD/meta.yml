@@ -1,16 +1,16 @@
 ---
 title: লাইব্রেরী থেকে একটি স্ক্র্যাচ স্প্রেড যোগ করা
-hero_image: ইমেজ / banner.png
+hero_image: images/banner.png
 description: লাইব্রেরী থেকে একটি স্ক্র্যাচ স্প্রেড যোগ করা
 original url: ""
-theme: CC-প্রোটোটাইপ
+theme: cc-prototype
 duration: 1
 curriculum: ""
 listed: false
 copyedit: true
 ingredient: true
 interests: ""
-technologies: "আঁচড়ের দাগ"
+technologies: "scratch"
 steps:
   - 
-    title: একটি পরী যোগ করুন
+    title: একটি স্প্রাইট যোগ করুন
