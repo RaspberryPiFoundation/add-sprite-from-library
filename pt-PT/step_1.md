@@ -2,6 +2,6 @@
     
     ![captura de ecrã](images/sprite-library.png)
 
-+ Você pode procurar sprites por categoria, tema ou tipo. Clique em um sprite e clique em **OK** para adicioná-lo ao seu projeto.
++ Você pode procurar sprites por categoria, tema ou tipo. Clique num sprite e clique em **OK** para o adicionar ao seu projeto.
     
-    ![captura de tela](images/sprite-choose.png)
+    ![captura de ecrã](images/sprite-choose.png)
