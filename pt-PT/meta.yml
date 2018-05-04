@@ -1,7 +1,7 @@
 ---
-title: Adicionando um sprite Scratch da Biblioteca
+title: Adicionando uma animação (sprite) do Scratch a partir da Biblioteca
 hero_image: images / banner.png
-description: Adicionando um sprite Scratch da Biblioteca
+description: Adicionando uma animação (sprite) do Scratch a partir da Biblioteca
 original url: ""
 theme: protótipo cc
 duration: 1
@@ -10,7 +10,7 @@ listed: false
 copyedit: true
 ingredient: true
 interests: ""
-technologies: "coçar, arranhão"
+technologies: "scratch"
 steps:
   - 
-    title: Adicione um sprite
+    title: Adicione uma animação sprite
