@@ -2,14 +2,14 @@
 title: Προσθέτοντας ένα αντικείμενο Scratch από τη Βιβλιοθήκη
 hero_image: images/banner.png
 description: Προσθέτοντας ένα αντικείμενο (sprite) από τη Βιβλιοθήκη του Scratch
-original url: ""
+original url:
 theme: cc-prototype
 duration: 1
-curriculum: ""
+curriculum:
 listed: false
 copyedit: true
 ingredient: true
-interests: ""
+interests:
 technologies: "scratch"
 steps:
   - 
