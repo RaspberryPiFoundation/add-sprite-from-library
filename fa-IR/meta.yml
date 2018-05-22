@@ -2,14 +2,14 @@
 title: اضافه کردن یک شبح اسکرچ از کتابخانه
 hero_image: images/banner.png
 description: اضافه کردن یک حرکت خراش از کتابخانه
-original url: ""
+original url:
 theme: cc-prototype
 duration: 1
-curriculum: ""
+curriculum:
 listed: false
 copyedit: true
 ingredient: true
-interests: ""
+interests:
 technologies: "scratch"
 steps:
   - 
