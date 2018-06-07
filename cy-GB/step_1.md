@@ -1,7 +1,7 @@
-+ Cliciwch **Dewiswch chwistrell o'r llyfrgell** i weld y llyfrgell o bob sprites Scratch.
++ Cliciwch **Dewiswch giplun o'r llyfrgell** i weld y llyfrgell o bob ciplun Scratch.
     
-    ![screenshot](images/sprite-library.png)
+    ![sgrinlun](images/sprite-library.png)
 
-+ Gallwch bori sprites yn ôl categori, thema, neu deipio. Cliciwch ar sbeisen a chliciwch **OK** i'w ychwanegu at eich prosiect.
++ Gallwch bori drwy'r cipluniau yn ôl categori, thema, neu fath. Cliciwch ar giplun a chliciwch **OK** i'w ychwanegu at eich prosiect.
     
-    ![screenshot](images/sprite-choose.png)
+    ![sgrinlun](images/sprite-choose.png)
