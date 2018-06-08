@@ -1,16 +1,16 @@
 ---
 title: 'title: إضافة كائن Scratch من المكتبة'
 hero_image: 'hero_image: images/banner.png'
-description: إضافة رمز سكراتش من المكتبة
+description: "description: إضافة كائن Scratch من المكتبة\n\noriginal url:"
 original url:
-theme: CC-النموذج
+theme: 'theme: cc-prototype'
 duration: 0
 curriculum:
 listed: false
 copyedit: true
 ingredient: true
 interests:
-technologies: "سكراتش"
+technologies: "technologies: \"scratch\""
 steps:
   - 
-    title: إضافة رمز
+    title: "steps:\ntitle: إضافة كائن"
