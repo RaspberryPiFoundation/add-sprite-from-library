@@ -1,16 +1,16 @@
 ---
 title: إضافة كائن Scratch من المكتبة
 hero_image: images/banner.png
-description: 'description: إضافة كائن Scratch من المكتبة'
+description: إضافة كائن Scratch من المكتبة
 original url:
-theme: 'theme: cc-prototype'
-duration: 0
+theme: cc-prototype
+duration: 1
 curriculum:
 listed: false
 copyedit: true
 ingredient: true
 interests:
-technologies: "technologies: \"scratch\""
+technologies: "scratch"
 steps:
   - 
-    title: "steps:\ntitle: إضافة كائن"
+    title: إضافة كائن
