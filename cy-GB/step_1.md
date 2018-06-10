@@ -1,4 +1,4 @@
-+ Cliciwch **Dewiswch giplun o'r llyfrgell** i weld y llyfrgell o bob ciplun Scratch.
++ Cliciwch **Dewis ciplun o'r rhestr** i weld y llyfrgell o bob ciplun Scratch.
     
     ![sgrinlun](images/sprite-library.png)
 
