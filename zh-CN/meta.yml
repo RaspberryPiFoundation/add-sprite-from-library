@@ -1,16 +1,16 @@
 ---
-title: 从库中添加一个Scratch精灵
-hero_image: 图片/ banner.png
-description: 从库中添加一个Scratch精灵
+title: 添加一个库中的Scratch角色
+hero_image: images/banner.png
+description: 添加一个库中的Scratch角色
 original url:
-theme: CC-原型
+theme: cc-prototype
 duration: 1
 curriculum:
 listed: false
 copyedit: true
 ingredient: true
 interests:
-technologies: "刮"
+technologies: "scratch"
 steps:
   - 
-    title: 添加一个精灵
+    title: 添加角色
