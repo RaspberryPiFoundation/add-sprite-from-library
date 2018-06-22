@@ -1,7 +1,7 @@
 ---
-title: Ajout d'une image-objet Scratch à la bibliothèque
+title: Ajout d'un lutin Scratch à la bibliothèque
 hero_image: images / banner.png
-description: Ajout d'une image-objet Scratch à la bibliothèque
+description: Ajout d'un lutin Scratch à la bibliothèque
 original url:
 theme: cc-prototype
 duration: 1
@@ -10,7 +10,7 @@ listed: false
 copyedit: true
 ingredient: true
 interests:
-technologies: "rayure"
+technologies: "scratch"
 steps:
   - 
-    title: Ajouter un sprite
+    title: Ajouter un lutin
