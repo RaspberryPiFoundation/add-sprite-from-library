@@ -1,7 +1,7 @@
-+ Clique em **Escolha o sprite da biblioteca** para ver a biblioteca de todos os sprites Scratch.
++ Clique em **Escolher sprite da biblioteca** para ver a biblioteca de todas as sprites Scratch.
     
-    ![captura de tela](images/sprite-library.png)
+    ![screenshot](images/sprite-library.png)
 
-+ Você pode procurar sprites por categoria, tema ou tipo. Clique em um sprite e clique em **OK** para adicioná-lo ao seu projeto.
++ Você pode procurar sprites por categoria, tema ou tipo. Clique em uma sprite e clique em **OK** para adicioná-la ao seu projeto.
     
-    ![captura de tela](images/sprite-choose.png)
+    ![screenshot](images/sprite-choose.png)
