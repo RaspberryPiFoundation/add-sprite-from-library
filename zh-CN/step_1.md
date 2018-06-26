@@ -1,7 +1,7 @@
-+ 点击__从库中选择子图__来查看所有 Scratch 子图的库。
++ 点击从角色库中选取角色，打开所有Scratch自带角色列表。
+    
+    ![屏幕截图](images/sprite-library.png)
 
-	![screenshot](images/sprite-library.png)
-
-+ 你可以按类别、主题或类型浏览子图。点击一个子图并点击__确认__来将其添加到你的项目。
-
-	![screenshot](images/sprite-choose.png)
++ 您可以按分类，主题或类型浏览角色。点击一个角色并点击 **确定** 将其添加到您的项目中。
+    
+    ![屏幕截图](images/sprite-choose.png)

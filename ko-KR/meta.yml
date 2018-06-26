@@ -1,7 +1,7 @@
 ---
-title: 添加一个库中的Scratch角色
+title: 저장소에서 스크래치 스프라이트 추가하기
 hero_image: images/banner.png
-description: 添加一个库中的Scratch角色
+description: 저장소에서 스크래치 스프라이트 추가하기
 original url:
 theme: cc-prototype
 duration: 1
@@ -12,4 +12,4 @@ ingredient: true
 interests:
 technologies: "scratch"
 steps:
-  - title: 添加角色
+  - title: 스프라이트 추가하기
