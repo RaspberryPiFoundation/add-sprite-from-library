@@ -1,4 +1,4 @@
-+ Нажми **Choose sprite from library** (Выберите спрайт из библиотеки), чтобы просмотреть библиотеку всех спрайтов Scratch.
++ Нажми **Choose sprite from library** (Выбрать спрайт из библиотеки), чтобы просмотреть библиотеку всех спрайтов Scratch.
     
     ![screenshot](images/sprite-library.png)
 
