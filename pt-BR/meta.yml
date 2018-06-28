@@ -1,5 +1,5 @@
 ---
-title: Adicionando um sprite Scratch da Biblioteca
+title: Adicionando um ator da biblioteca Scratch
 hero_image: images/banner.png
 description: Adicionando um sprite Scratch da Biblioteca
 original url:
@@ -13,4 +13,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: Adicione uma sprite
+    title: Adicione um ator
