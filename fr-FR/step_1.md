@@ -1,7 +1,7 @@
-+ Clique sur **Choisir un lutin dans la bibliothèque** pour voir la bibliothèque de tous les lutins de Scratch.
++ Click **Choose sprite from library** to see the library of all Scratch sprites.
     
     ![capture d'écran](images/sprite-library.png)
 
-+ Tu peux parcourir les lutin par catégorie, thème ou type. Clique sur un lutin et clique sur **OK** pour l'ajouter à ton projet.
++ You can browse sprites by category, theme, or type. Click on a sprite and click **OK** to add it to your project.
     
     ![capture d'écran](images/sprite-choose.png)
