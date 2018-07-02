@@ -1,7 +1,7 @@
 ---
-title: Добавление спрайта Scratch из библиотеки
+title: Adding a Scratch sprite from the Library
 hero_image: images/banner.png
-description: Добавление спрайта Scratch из библиотеки
+description: Adding a Scratch sprite from the Library
 original url:
 theme: cc-prototype
 duration: 1
@@ -13,4 +13,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: Добавить спрайт (объект)
+    title: Add a sprite
