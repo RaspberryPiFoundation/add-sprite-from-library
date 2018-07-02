@@ -1,7 +1,7 @@
-+ Click **Choose sprite from library** to see the library of all Scratch sprites.
++ 点击**从角色库中选取角色**，打开所有Scratch自带角色列表。
     
-    ![截屏](images/sprite-library.png)
+    ![屏幕截图](images/sprite-library.png)
 
-+ You can browse sprites by category, theme, or type. Click on a sprite and click **OK** to add it to your project.
++ 您可以按分类，主题或类型浏览角色。点击一个角色并点击 **确定** 将其添加到您的项目中。
     
-    ![截屏](images/sprite-choose.png)
+    ![屏幕截图](images/sprite-choose.png)
