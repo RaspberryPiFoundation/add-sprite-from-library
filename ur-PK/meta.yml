@@ -1,7 +1,7 @@
 ---
-title: لائبریری سے ایک سکریچ سپریٹ شامل کرنا
+title: Adding a Scratch sprite from the Library
 hero_image: تصاویر / banner.png
-description: لائبریری سے ایک سکریچ سپریٹ شامل کرنا
+description: Adding a Scratch sprite from the Library
 original url:
 theme: سی سی پروٹوٹائپ
 duration: 1
@@ -13,4 +13,4 @@ interests:
 technologies: "خرگوش"
 steps:
   - 
-    title: ایک سپرے شامل کریں
+    title: Add a sprite
