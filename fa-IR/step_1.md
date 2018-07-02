@@ -1,7 +1,7 @@
-+ روی **کلیک کنید. از کتابخانه** برای پیدا کردن کتابخانه ی همه یاران خراش استفاده کنید.
++ Click **Choose sprite from library** to see the library of all Scratch sprites.
     
     ![تصویری](images/sprite-library.png)
 
-+ شما می توانید متن ها را با دسته بندی، موضوع یا نوع فهرست کنید. روی یک راهنما کلیک کنید و روی **OK** کلیک کنید تا آن را به پروژه خود اضافه کنید.
++ You can browse sprites by category, theme, or type. Click on a sprite and click **OK** to add it to your project.
     
     ![تصویری](images/sprite-choose.png)
