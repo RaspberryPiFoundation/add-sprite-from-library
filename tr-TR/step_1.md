@@ -1,7 +1,7 @@
-+ Click **Choose sprite from library** to see the library of all Scratch sprites.
++ Tüm Scratch sprite'larının kütüphanesini görmek için **kütüphanesinden** sprite seçin.
     
     ![ekran görüntüsü](images/sprite-library.png)
 
-+ You can browse sprites by category, theme, or type. Click on a sprite and click **OK** to add it to your project.
++ Kategorilere, temaya veya türe göre sprite'lara göz atabilirsiniz. Bir hareketli grafiğe tıklayın ve projenize eklemek için **OK** tıklayın.
     
     ![ekran görüntüsü](images/sprite-choose.png)
