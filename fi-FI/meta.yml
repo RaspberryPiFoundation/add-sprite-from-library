@@ -1,7 +1,7 @@
 ---
-title: Adding a Scratch sprite from the Library
+title: Scratch sprite -ohjelman lisääminen kirjastosta
 hero_image: Kuvien / banner.png
-description: Adding a Scratch sprite from the Library
+description: Scratch sprite -ohjelman lisääminen kirjastosta
 original url:
 theme: CC-prototyyppi
 duration: 1
@@ -13,4 +13,4 @@ interests:
 technologies: "naarmu"
 steps:
   - 
-    title: Add a sprite
+    title: Lisää sprite
