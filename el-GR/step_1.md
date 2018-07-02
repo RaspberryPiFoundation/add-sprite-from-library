@@ -1,7 +1,7 @@
-+ Κάνε κλικ στο **Διαλέξτε ένα αντικείμενο από τη βιβλιοθήκη** για να δεις όλα τα αντικείμενα της βιβλιοθήκης του Scratch.
++ Click **Choose sprite from library** to see the library of all Scratch sprites.
     
     ![στιγμιότυπο οθόνης](images/sprite-library.png)
 
-+ Μπορείς να περιηγηθείς στα αντικείμενα ανά κατηγορία, θέμα ή τύπο. Κάνε κλικ σε ένα αντικείμενο και ξανά κλικ στο **OK** για να το προσθέσεις στο έργο σου.
++ You can browse sprites by category, theme, or type. Click on a sprite and click **OK** to add it to your project.
     
     ![στιγμιότυπο οθόνης](images/sprite-choose.png)
