@@ -1,7 +1,7 @@
-+ Klikkaa **Valitse kirjastosta** sprite nähdäksesi kaikki Scratch-kirjasimet.
++ Click **Choose sprite from library** to see the library of all Scratch sprites.
     
     ![kuvakaappaus](images/sprite-library.png)
 
-+ Voit selata spritsejä luokan, teeman tai tyypin mukaan. Napsauta sprite ja napsauta **OK** lisätäksesi sen projektiin.
++ You can browse sprites by category, theme, or type. Click on a sprite and click **OK** to add it to your project.
     
     ![kuvakaappaus](images/sprite-choose.png)
