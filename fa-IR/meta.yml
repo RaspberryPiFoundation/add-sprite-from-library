@@ -1,16 +1,16 @@
 ---
-title: اضافه کردن یک شبح اسکرچ از کتابخانه
-hero_image: images/banner.png
-description: اضافه کردن یک حرکت خراش از کتابخانه
+title: Adding a Scratch sprite from the Library
+hero_image: images / banner.png
+description: Adding a Scratch sprite from the Library
 original url:
-theme: cc-prototype
+theme: نمونه اولیه cc
 duration: 1
 curriculum:
 listed: false
 copyedit: true
 ingredient: true
 interests:
-technologies: "scratch"
+technologies: "خراش"
 steps:
   - 
-    title: یک راهنما را اضافه کنید
+    title: Add a sprite
