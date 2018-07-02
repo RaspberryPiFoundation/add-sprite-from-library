@@ -1,7 +1,7 @@
-+ Cliciwch **Dewis ciplun o'r rhestr** i weld y llyfrgell o bob ciplun Scratch.
++ Click **Choose sprite from library** to see the library of all Scratch sprites.
     
     ![sgrinlun](images/sprite-library.png)
 
-+ Gallwch bori drwy'r cipluniau yn ôl categori, thema, neu fath. Cliciwch ar giplun a chliciwch **Iawn** i'w ychwanegu i eich prosiect.
++ You can browse sprites by category, theme, or type. Click on a sprite and click **OK** to add it to your project.
     
     ![sgrinlun](images/sprite-choose.png)
