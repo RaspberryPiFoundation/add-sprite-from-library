@@ -1,7 +1,7 @@
 ---
-title: Dodajanje Scratch-jevega pisma iz knjižnice
+title: Adding a Scratch sprite from the Library
 hero_image: images / banner.png
-description: Dodajanje Scratch-jevega pisma iz knjižnice
+description: Adding a Scratch sprite from the Library
 original url:
 theme: cc-prototip
 duration: 1
@@ -13,4 +13,4 @@ interests:
 technologies: "praska"
 steps:
   - 
-    title: Dodaj sprite
+    title: Add a sprite
