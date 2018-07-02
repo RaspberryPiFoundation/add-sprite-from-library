@@ -1,7 +1,7 @@
-+ **پر کلک کریں تمام سکریچ سپاٹس کی لائبریری کو دیکھنے کے لئے لائبریری** سے سپرے.
++ Click **Choose sprite from library** to see the library of all Scratch sprites.
     
     ![اسکرین شاٹ](images/sprite-library.png)
 
-+ آپ زمرہ، مرکزی خیال، یا قسم کی طرف سے sprites براؤز کر سکتے ہیں. سپریائٹ پر کلک کریں اور اپنے منصوبے میں شامل کرنے کیلئے **ٹھیک** پر کلک کریں.
++ You can browse sprites by category, theme, or type. Click on a sprite and click **OK** to add it to your project.
     
     ![اسکرین شاٹ](images/sprite-choose.png)
