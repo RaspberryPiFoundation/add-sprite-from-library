@@ -1,7 +1,7 @@
-+ Klik **Pilih sprite dari pustaka** untuk melihat pustaka semua sprite pada Scratch.
++ Click **Choose sprite from library** to see the library of all Scratch sprites.
     
     ![screenshot](images/sprite-library.png)
 
-+ Kamu bisa menjelajah sprite berdasarkan kategori, tema, atau tipe. Klik pada sprite dan klik **OK** untuk menambahkannya ke proyek Anda.
++ You can browse sprites by category, theme, or type. Click on a sprite and click **OK** to add it to your project.
     
     ![screenshot](images/sprite-choose.png)
