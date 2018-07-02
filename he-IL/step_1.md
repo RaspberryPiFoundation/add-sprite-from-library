@@ -1,7 +1,7 @@
-+ לחץ על **בחר ספרייט מתוך הספריה** כדי לראות את הספרייה של כל ספרייטים של שריטה.
++ Click **Choose sprite from library** to see the library of all Scratch sprites.
     
     ![צילום מסך](images/sprite-library.png)
 
-+ ניתן לעיין בשניות לפי קטגוריה, נושא או סוג. לחץ על שדון ולחץ על **אישור** כדי להוסיף אותו לפרויקט שלך.
++ You can browse sprites by category, theme, or type. Click on a sprite and click **OK** to add it to your project.
     
     ![צילום מסך](images/sprite-choose.png)
