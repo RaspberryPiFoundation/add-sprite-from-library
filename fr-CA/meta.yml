@@ -1,7 +1,7 @@
 ---
-title: Ajout d'une image-objet Scratch à la bibliothèque
+title: Adding a Scratch sprite from the Library
 hero_image: images / banner.png
-description: Ajout d'une image-objet Scratch à la bibliothèque
+description: Adding a Scratch sprite from the Library
 original url:
 theme: cc-prototype
 duration: 1
@@ -13,4 +13,4 @@ interests:
 technologies: "rayure"
 steps:
   - 
-    title: Ajouter un sprite
+    title: Add a sprite
