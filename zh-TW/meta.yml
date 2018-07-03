@@ -1,16 +1,16 @@
 ---
-title: Adding a Scratch sprite from the Library
-hero_image: 圖片/ banner.png
-description: Adding a Scratch sprite from the Library
+title: 從資料庫中添加一個Scratch精靈
+hero_image: images/banner.png
+description: 從資料庫中添加一個Scratch精靈
 original url:
-theme: CC-原型
+theme: cc-prototype
 duration: 1
 curriculum:
 listed: false
 copyedit: true
 ingredient: true
 interests:
-technologies: "刮"
+technologies: "scratch"
 steps:
   - 
-    title: Add a sprite
+    title: 添加一個精靈
