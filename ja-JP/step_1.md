@@ -1,7 +1,7 @@
-+ Click **Choose sprite from library** to see the library of all Scratch sprites.
++ **スプライトをライブラリーから選択**をクリックすると、すべてのScratchスプライトのライブラリーが表示されます。
     
     ![スクリーンショット](images/sprite-library.png)
 
-+ You can browse sprites by category, theme, or type. Click on a sprite and click **OK** to add it to your project.
++ カテゴリー、テーマ、またはタイプ別にスプライトを探すことができます。スプライトをクリックし、 **OK** をクリックしてプロジェクトに追加します。
     
     ![スクリーンショット](images/sprite-choose.png)
