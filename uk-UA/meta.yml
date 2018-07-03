@@ -1,16 +1,16 @@
 ---
 title: Додавання Scratch спрайта з бібліотеки
-hero_image: images / banner.png
+hero_image: images/banner.png
 description: Додавання Scratch спрайта з бібліотеки
 original url:
-theme: cc-прототип
+theme: cc-prototype
 duration: 1
 curriculum:
 listed: false
 copyedit: true
 ingredient: true
 interests:
-technologies: "подряпати"
+technologies: "scratch"
 steps:
   - 
     title: Додати спрайт
