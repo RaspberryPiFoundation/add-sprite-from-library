@@ -1,7 +1,7 @@
 ---
-title: Adding a Scratch sprite from the Library
+title: Tilføjelse af et scratch-sprite fra biblioteket
 hero_image: images / banner.png
-description: Adding a Scratch sprite from the Library
+description: Tilføjelse af et scratch-sprite fra biblioteket
 original url:
 theme: cc-prototype
 duration: 1
@@ -13,4 +13,4 @@ interests:
 technologies: "kradse"
 steps:
   - 
-    title: Add a sprite
+    title: Tilføj en sprite
