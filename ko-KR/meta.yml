@@ -1,6 +1,6 @@
 ---
 title: 저장소에서 스크래치 스프라이트 추가하기
-hero_image: images / banner.png
+hero_image: images/banner.png
 description: 저장소에서 스크래치 스프라이트 추가하기
 original url:
 theme: cc-prototype
@@ -10,7 +10,7 @@ listed: false
 copyedit: true
 ingredient: true
 interests:
-technologies: "스크래치"
+technologies: "scratch"
 steps:
   - 
     title: 스프라이트 추가하기
