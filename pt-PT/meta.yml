@@ -1,7 +1,7 @@
 ---
-title: Adicionar uma animação (sprite) do Scratch a partir da Biblioteca
+title: Adicionar um actor do Scratch a partir da Biblioteca
 hero_image: images/banner.png
-description: Adicionar uma animação (sprite) do Scratch a partir da Biblioteca
+description: Adicionar um actor do Scratch a partir da Biblioteca
 original url:
 theme: cc-prototype
 duration: 1
@@ -13,4 +13,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: Adicionar uma animação sprite
+    title: Adicionar um actor
