@@ -1,7 +1,7 @@
-+ Clica em **Escolha o sprite da biblioteca** para ver a biblioteca de todos os sprites Scratch.
++ Clica em **Escolher actor a partir da biblioteca/0> para ver a biblioteca de todos os actores do Scratch.</p> 
     
-    ![captura de ecrã](images/sprite-library.png)
-
-+ Podes procurar sprites por categoria, tema ou tipo. Clica num sprite e clique em **OK** para o adicionar ao seu projeto.
+    ![screenshot](images/sprite-library.png)</li> 
     
-    ![captura de ecrã](images/sprite-choose.png)
+    + Podes procurar actores por categoria, tema ou tipo. Clica num actor e clica em **OK** para o adicionar ao teu projeto.
+        
+        ![captura de ecrã](images/sprite-choose.png)</ul>
