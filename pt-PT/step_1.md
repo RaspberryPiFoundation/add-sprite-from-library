@@ -4,4 +4,4 @@
     
     + Podes procurar actores por categoria, tema ou tipo. Clica num actor e clica em **OK** para o adicionar ao teu projeto.
         
-        ![captura de ecrã](images/sprite-choose.png)</ul>
+        ![screenshot](images/sprite-choose.png)</ul>
