@@ -1,16 +1,16 @@
 ---
-title: הוספת שריטות שריטה מהספרייה
-hero_image: תמונות / banner.png
-description: הוספת שריטות שריטה מהספרייה
+title: הוספת דמויות מהספרייה
+hero_image: images/banner.png
+description: הוספת דמויות מהספרייה
 original url:
-theme: אב טיפוס
+theme: cc-prototype
 duration: 1
 curriculum:
 listed: false
 copyedit: true
 ingredient: true
 interests:
-technologies: "שריטה"
+technologies: "scratch"
 steps:
   - 
-    title: הוסף שדון
+    title: הוסף דמות
