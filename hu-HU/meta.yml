@@ -1,16 +1,16 @@
 ---
-title: Adding a Scratch sprite from the Library
-hero_image: images/banner.png
-description: Adding a Scratch sprite from the Library
+title: A Scratch sprite hozzáadása a könyvtárból
+hero_image: images / banner.png
+description: A Scratch sprite hozzáadása a könyvtárból
 original url:
-theme: cc-prototype
+theme: cc-prototípus
 duration: 1
 curriculum:
 listed: false
 copyedit: true
 ingredient: true
 interests:
-technologies: "scratch"
+technologies: "karcolás"
 steps:
   - 
-    title: Add a sprite
+    title: Adj hozzá egy sprite-et
