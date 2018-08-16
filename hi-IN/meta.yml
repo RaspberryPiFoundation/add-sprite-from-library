@@ -1,6 +1,7 @@
-title: लाइब्रेरी से Scratch स्प्राइट शामिल करना
+---
+title: लाइब्रेरी से स्क्रैच स्प्राइट जोड़ना
 hero_image: images/banner.png
-description: लाइब्रेरी से Scratch स्प्राइट शामिल करना
+description: लाइब्रेरी से स्क्रैच स्प्राइट जोड़ना
 original url:
 theme: cc-prototype
 duration: 1
@@ -9,6 +10,6 @@ listed: false
 copyedit: true
 ingredient: true
 interests:
-technologies: “scratch"
+technologies: "scratch"
 steps:
-  - title: स्प्राइट शामिल करें
+  - title: स्प्राइट जोड़े
