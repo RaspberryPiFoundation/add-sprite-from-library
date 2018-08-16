@@ -1,7 +1,7 @@
-+ Click **Choose sprite from library** to see the library of all Scratch sprites.
++ Кликните **Одаберите сприте из библиотеке** да бисте видели библиотеку свих Сцратцх спритова.
     
-    ![screenshot](images/sprite-library.png)
+    ![сцреенсхот](images/sprite-library.png)
 
-+ You can browse sprites by category, theme, or type. Click on a sprite and click **OK** to add it to your project.
++ Можете претраживати сприте по категорији, теми или типу. Кликните на сприте и кликните **ОК** да бисте га додали у свој пројекат.
     
-    ![screenshot](images/sprite-choose.png)
+    ![сцреенсхот](images/sprite-choose.png)
