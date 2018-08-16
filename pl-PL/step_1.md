@@ -2,6 +2,6 @@
     
     ![zrzut ekranu](images/sprite-library.png)
 
-+ Możesz przeglądać duszki według kategorii, motywu lub typu. Kliknij duszka i kliknij **OK**, aby dodać go do swojego projektu.
++ Możesz przeglądać postaci według kategorii, motywu lub typu. Kliknij ikonę postaci a następnie **OK**, aby dodać ją do swojego projektu.
     
     ![zrzut ekranu](images/sprite-choose.png)
