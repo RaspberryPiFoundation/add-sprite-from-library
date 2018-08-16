@@ -1,16 +1,16 @@
 ---
-title: Додавање Сцратцх спита из библиотеке
-hero_image: имагес / баннер.пнг
-description: Додавање Сцратцх спита из библиотеке
+title: Додавање Среч ликова из библиотеке
+hero_image: images/banner.png
+description: Додавање Скреч ликова из библиотеке
 original url:
-theme: цц-прототип
+theme: cc-prototype
 duration: 1
 curriculum:
 listed: false
 copyedit: true
 ingredient: true
 interests:
-technologies: "огреботина"
+technologies: "scratch"
 steps:
   - 
-    title: Додајте сприте
+    title: Додајте лик
