@@ -2,6 +2,6 @@
     
     ![skærmbillede](images/sprite-library.png)
 
-+ Du kan gennemse sprites efter kategori, tema eller type. Klik på et sprite og klik på **OK** at tilføje det til dit projekt.
++ Du kan gennemse sprites efter kategori, tema eller type. Klik på et sprite og klik på **OK** for at tilføje det til dit projekt.
     
     ![skærmbillede](images/sprite-choose.png)
