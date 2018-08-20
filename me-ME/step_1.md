@@ -2,6 +2,6 @@
     
     ![screenshot](images/sprite-library.png)
 
-+ Možeš da pretražuješ likove po kategoriji, temi ili tipu (category, theme, or type). Klikni na lik, a zatim klikni na **OK** da ga dodaš u svoj projekat.
++ Možeš da pretražuješ likove po kategoriji, temi ili vrsti (category, theme, or type). Klikni na lik, a zatim klikni na **OK** da ga dodaš u svoj projekat.
     
     ![screenshot](images/sprite-choose.png)
