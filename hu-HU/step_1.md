@@ -1,7 +1,7 @@
-+ Kattintson a **Válassza ki a sprite -et a könyvtárból** hogy megnézze az összes Scratch sprites könyvtárát.
++ Kattints a **Szereplő kiválasztása a könyvtárból** ikonra, hogy megnyisd az összes Scratch szereplő könyvtárát.
     
-    ![screenshot](images/sprite-library.png)
+    ![képernyőkép](images/sprite-library.png)
 
-+ A spriteket kategória, téma vagy típus szerint böngészheti. Kattintson egy sprite-re és kattintson a **OK-ra** a projekthez való hozzáadásához.
++ A szereplőket kategória, téma vagy típus szerint böngészheted. Kattints egy szereplőre, majd kattints az **OK** gombra a projekthez való hozzáadásához.
     
-    ![screenshot](images/sprite-choose.png)
+    ![képernyőkép](images/sprite-choose.png)
