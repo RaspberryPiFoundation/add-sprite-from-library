@@ -1,7 +1,7 @@
-+ Klikkaa **Valitse kirjastosta** sprite nähdäksesi kaikki Scratch-kirjasimet.
++ Klikkaa **Valitse asuste kirjastosta** nähdäksesi kaikki Scratch-asusteet.
     
     ![kuvakaappaus](images/sprite-library.png)
 
-+ Voit selata spritsejä luokan, teeman tai tyypin mukaan. Napsauta sprite ja napsauta **OK** lisätäksesi sen projektiin.
++ Voit selata asusteita luokan, teeman tai tyypin mukaan. Valitse asuste ja napsauta **OK** lisätäksesi sen projektiin.
     
     ![kuvakaappaus](images/sprite-choose.png)
