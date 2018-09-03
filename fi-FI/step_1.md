@@ -1,7 +1,7 @@
-+ Klikkaa **Valitse asuste kirjastosta** nähdäksesi kaikki Scratch-asusteet.
++ Klikkaa **Valitse hahmo kirjastosta** nähdäksesi kaikki Scratch-hahmot.
     
     ![kuvakaappaus](images/sprite-library.png)
 
-+ Voit selata asusteita luokan, teeman tai tyypin mukaan. Valitse asuste ja napsauta **OK** lisätäksesi sen projektiin.
++ Voit selata hahmoja luokan, teeman tai tyypin mukaan. Valitse hahmo ja napsauta **OK** lisätäksesi sen projektiin.
     
     ![kuvakaappaus](images/sprite-choose.png)
