@@ -1,4 +1,4 @@
-+ Klik på **Vælg sprite fra bibliotek** at se biblioteket af alle Scratch sprites.
++ Klik på **Vælg sprite fra bibliotek** for at se biblioteket med alle Scratch sprites.
     
     ![skærmbillede](images/sprite-library.png)
 
