@@ -2,6 +2,6 @@
     
     ![ekran görüntüsü](images/sprite-library.png)
 
-+ Kategorilere, temaya veya türe göre sprite'lara göz atabilirsiniz. Bir hareketli grafiğe tıklayın ve projenize eklemek için **OK** tıklayın.
++ Kuklaları kategorilerine, temalarına veya türlerine göre seçebilirsiniz. Önce bir kukla üzerine ve sonra bu kuklayı projenize eklemek için **Tamam** tuşuna tıklayın.
     
     ![ekran görüntüsü](images/sprite-choose.png)
