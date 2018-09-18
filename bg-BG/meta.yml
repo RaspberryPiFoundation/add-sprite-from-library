@@ -1,16 +1,16 @@
 ---
 title: Добавяне на Scratch sprite от библиотеката
-hero_image: изображения / banner.png
+hero_image: images/banner.png
 description: Добавяне на Scratch sprite от библиотеката
 original url:
-theme: сс-прототип
+theme: cc-prototype
 duration: 1
 curriculum:
 listed: false
 copyedit: true
 ingredient: true
 interests:
-technologies: "драскотина"
+technologies: "scratch"
 steps:
   - 
     title: Добавете спрайт
