@@ -1,4 +1,4 @@
-+ Klikkaa **Valitse hahmo kirjastosta** nähdäksesi kaikki Scratch-hahmot.
++ Klikkaa **Valitse hahmo kirjastosta** nähdäksesi kaikkien Scratch-hahmojen kirjasto.
     
     ![kuvakaappaus](images/sprite-library.png)
 
